@@ -1,0 +1,15 @@
+{
+	"Token": "ваш токен",
+	"Prefix": ">",
+
+	"Channel-Names": ["nuked-by-austr"], 
+	"Server-Names": ["__--Crashed--__"],
+	"Role-Names": ["@porno"],
+	"Reason": ["spsp", "pizda"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["@Crashed by austr", "Crasheeeed"],
+	"Spam-Messages": ["@everyone ИДИТЕ НАХУУУЙ", "@everyone ВАША МАТЬ ШЛЮХАААА"],
+	"Spam-Amount": 10000
+}
